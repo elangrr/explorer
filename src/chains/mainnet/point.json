@@ -1,0 +1,23 @@
+{
+  "chain_name": "point",
+  "api": [
+    "https://api.point.nodestake.top"
+    
+  ],
+  "rpc": [
+    "https://jsonrpc.point.nodestake.top/"
+    
+  ],
+  "sdk_version": "0.45.5",
+  "addr_prefix": "point",
+  "min_tx_fee": "5000",
+  "logo": "/logos/point-logo.png",
+  "assets": [
+    {
+      "symbol": "POINT",
+      "base": "apoint",
+      "exponent": 6,
+      "logo": "/logos/point-logo.png"
+    }
+  ]
+}

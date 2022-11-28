@@ -32,7 +32,7 @@ function processMenu() {
   } else {
     chainMenus.push({
       title: 'Website',
-      href: 'https://indonode.dev'',
+      href: 'https://indonode.dev',
       icon: 'LifeBuoyIcon',
     })
   }
