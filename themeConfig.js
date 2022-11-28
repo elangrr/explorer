@@ -9,13 +9,13 @@ export const $themeBreakpoints = {}
 // APP CONFIG
 export const $themeConfig = {
   app: {
-    appName: 'Indonode Explorer', // Will update name in navigation menu (Branding)
+    appName: 'Indonode', // Will update name in navigation menu (Branding)
     // eslint-disable-next-line global-require
     appLogoImage: '/logox.svg', // Will update logo in navigation menu (Branding)
   },
   layout: {
     isRTL: false,
-    skin: 'semi-dark', // light, dark, bordered, semi-dark
+    skin: 'dark', // light, dark, bordered, semi-dark
     routerTransition: 'zoom-fade', // zoom-fade, slide-fade, fade-bottom, fade, zoom-out, none
     type: 'vertical', // vertical, horizontal
     contentWidth: 'full', // full, boxed
@@ -25,7 +25,7 @@ export const $themeConfig = {
     },
     navbar: {
       // ? For horizontal menu, navbar type will work for navMenu type
-      type: 'floating', // static , sticky , floating, hidden
+      type: 'sticky', // static , sticky , floating, hidden
       backgroundColor: '', // BS color options [primary, success, etc]
     },
     footer: {
