@@ -16,7 +16,7 @@
     {
       "symbol": "POINT",
       "base": "apoint",
-      "exponent": 6,
+      "exponent": 18,
       "logo": "/logos/point-logo.png"
     }
   ]

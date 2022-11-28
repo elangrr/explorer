@@ -9,13 +9,13 @@ export const $themeBreakpoints = {}
 // APP CONFIG
 export const $themeConfig = {
   app: {
-    appName: 'NodeXplorer', // Will update name in navigation menu (Branding)
+    appName: 'Indonode Explorer', // Will update name in navigation menu (Branding)
     // eslint-disable-next-line global-require
     appLogoImage: '/logox.svg', // Will update logo in navigation menu (Branding)
   },
   layout: {
     isRTL: false,
-    skin: 'dark', // light, dark, bordered, semi-dark
+    skin: 'semi-dark', // light, dark, bordered, semi-dark
     routerTransition: 'zoom-fade', // zoom-fade, slide-fade, fade-bottom, fade, zoom-out, none
     type: 'vertical', // vertical, horizontal
     contentWidth: 'full', // full, boxed

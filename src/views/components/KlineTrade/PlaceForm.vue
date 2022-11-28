@@ -416,7 +416,7 @@ export default {
         this.address,
         txMsgs,
         txFee,
-        'Sent Via https://nodexcapital.com',
+        'Sent Via https://indonode.dev',
         signerData,
       ).then(bodyBytes => {
         this.$http.broadcastTx(bodyBytes).then(res => {
