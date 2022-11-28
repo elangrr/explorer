@@ -19,26 +19,26 @@ function processMenu() {
       title: 'blockchains',
       children: blockchains,
       tag: `${blockchains.length}`,
-      icon: 'https://explorer.nodexcapital.com/logox.svg',
+      icon: 'https://explorer.indonode.dev/logox.svg',
     })
   }
   chainMenus.push({ header: 'LINKS' })
   if (isTestnet()) {
     chainMenus.push({
-      title: 'NodeX Capital Explorer',
-      href: 'https://explorer.nodexcapital.com',
+      title: 'Indonode Explorer',
+      href: 'https://explorer.indonode.dev',
       icon: 'ChromeIcon',
     })
   } else {
     chainMenus.push({
       title: 'Website',
-      href: 'https://nodexcapital.com',
+      href: 'https://indonode.dev'',
       icon: 'LifeBuoyIcon',
     })
   }
   chainMenus.push({
     title: 'Twitter',
-    href: 'https://twitter.com/nodex_capital',
+    href: 'https://twitter.com/indonodev',
     icon: 'TwitterIcon',
   })
   chainMenus.push({
@@ -48,7 +48,7 @@ function processMenu() {
   })
   chainMenus.push({
     title: 'Github',
-    href: 'https://github.com/nodexcapital/testnet',
+    href: 'https://github.com/elangrr/',
     icon: 'GithubIcon',
   })
 
