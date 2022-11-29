@@ -12,7 +12,7 @@
     "assets": [{
         "base": "uhid",
         "symbol": "HID",
-        "exponent": "18",
+        "exponent": "6",
         "coingecko_id": "",
         "logo": "/logos/hypersign.jpg"
     }]
