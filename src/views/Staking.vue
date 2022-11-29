@@ -341,7 +341,7 @@ export default {
   },
   computed: {
     pingVals() {
-      return this.list.filter(x => x.description.identity === '	68888bf7bcba8d28fea3502658527185d1dd91f8')
+      return this.list.filter(x => x.description.identity === '58527185D1DD91F8')
     },
     list() {
       const tab = this.selectedStatus === 'active' ? this.validators : this.inactiveValidators
