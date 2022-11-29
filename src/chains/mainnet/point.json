@@ -5,10 +5,11 @@
     
   ],
   "rpc": [
-    "https://jsonrpc.point.nodestake.top/"
+    "https://jsonrpc.point.nodestake.top/",
+    "https://rpc-mainnet-1.point.space:1317"
     
   ],
-  "sdk_version": "0.45.5",
+  "sdk_version": "0.45.6",
   "addr_prefix": "point",
   "min_tx_fee": "5000",
   "logo": "/logos/point-logo.png",
