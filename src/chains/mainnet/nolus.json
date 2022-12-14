@@ -1,8 +1,8 @@
 {
     "chain_name": "nolus",
     "coingecko": "",
-    "api": ["https://api-t.nolus.nodestake.top/", "https://net-rila.nolus.io:1317/"],
-    "rpc": ["https://rpc-t.nolus.nodestake.top/"],
+    "api": ["https://api-t.nolus.nodestake.top/", "https://net-rila.nolus.io:1317/", " api.nolus.ppnv.space "],
+    "rpc": ["https://rpc-t.nolus.nodestake.top/", "rpc.nolus.ppnv.space:34657"],
     "snapshot_provider": "",
     "sdk_version": "0.44.3",
     "coin_type": "118",
