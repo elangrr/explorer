@@ -1,8 +1,8 @@
 {
     "chain_name": "defund",
     "coingecko": "defund",
-    "api": ["https://rpc.defund.indonode.net"], ["https://defund-testnet.api.kjnodes.com"]
-    "rpc": ["https://api.defund.indonode.net"], ["https://defund-testnet.rpc.kjnodes.com/"]
+    "api": ["https://rpc.defund.indonode.net", "https://defund-testnet.api.kjnodes.com"]
+    "rpc": ["https://api.defund.indonode.net", "https://defund-testnet.rpc.kjnodes.com"]
     "snapshot_provider": "",
     "sdk_version": "0.46.1",
     "coin_type": "118",
