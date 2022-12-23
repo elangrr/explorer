@@ -1,7 +1,7 @@
 {
     "chain_name": "OKP4",
-    "api": ["https://api-t.okp4.nodestake.top"],
-    "rpc": ["https://rpc-t.okp4.nodestake.top"],
+    "api": ["https://api.okp4.indonode.net"],
+    "rpc": ["https://rpc.okp4.indonode.net"],
     "snapshot_provider": "",
     "sdk_version": "0.46.2",
     "coin_type": "118",
