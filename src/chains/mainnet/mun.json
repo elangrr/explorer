@@ -1,8 +1,8 @@
 {
   "chain_name": "testmun",
   "coingecko": "mun",
-  "api": ["http://api-mun.indonode.net/"],
-  "rpc": ["http://rpc-mun.indonode.net/"],
+  "api": ["http://api.mun.indonode.net/"],
+  "rpc": ["http://rpc.mun.indonode.net/"],
   "snapshot_provider": "",
   "sdk_version": "0.46.1",
   "coin_type": "118",
