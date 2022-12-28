@@ -1,0 +1,19 @@
+{
+    "chain_name": "planq_7070-2",
+    "api": ["https://api.planq.indonode.net/"],
+    "rpc": ["https://rpc.planq.indonode.net/"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.4",
+    "coin_type": "118",
+    "min_tx_fee": "1000000",
+    "addr_prefix": "plq",
+    "logo": "/logos/planq.png",
+    "assets": [
+      {
+        "base": "aplanq",
+        "symbol": "PLANQ",
+        "exponent": "6",
+        "logo": "/logos/planq.png"
+      }
+    ]
+  }
