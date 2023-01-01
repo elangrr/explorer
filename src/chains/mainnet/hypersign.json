@@ -1,7 +1,7 @@
 {
     "chain_name": "hypersign",
     "coingecko": "",
-    "api": ["https://api-t.hypersign.nodestake.top"],
+    "api": ["https://api.hypersign.indonode.net", "https://api-t.hypersign.nodestake.top"],
     "rpc": [""],
     "snapshot_provider": "",
     "sdk_version": "0.45.7",
