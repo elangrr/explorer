@@ -1,13 +1,13 @@
 {
     "chain_name": "nolus",
     "coingecko": "",
-    "api": ["https://api-t.nolus.nodestake.top/", "https://net-rila.nolus.io:1317/", " api.nolus.ppnv.space "],
+    "api": ["https://api-t.nolus.nodestake.top/", "https://net-rila.nolus.io:1317/", "https://api.nolus.ppnv.space"],
     "rpc": ["https://rpc-t.nolus.nodestake.top/", "rpc.nolus.ppnv.space:34657"],
     "snapshot_provider": "",
     "sdk_version": "0.44.3",
     "coin_type": "118",
     "min_tx_fee": "200",
-    "addr_prefix": "deweb",
+    "addr_prefix": "nolus",
     "logo": "/logos/nolus.png",
     "assets": [{
         "base": "unls",

@@ -1,10 +1,10 @@
 {
-  "chain_name": "testmun",
+  "chain_name": "mun-testnet",
   "coingecko": "mun",
   "api": ["http://api.mun.indonode.net/"],
   "rpc": ["http://rpc.mun.indonode.net/"],
   "snapshot_provider": "",
-  "sdk_version": "0.46.1",
+  "sdk_version": "0.45.6",
   "coin_type": "118",
   "min_tx_fee": "5000",
   "addr_prefix": "mun",
@@ -14,7 +14,7 @@
       "base": "utmun",
       "symbol": "MUN",
       "exponent": "6",
-      "coingecko_id": "altruistic-1",
+      "coingecko_id": "mun",
       "logo": "/logos/mun.png"
     }
   ]
