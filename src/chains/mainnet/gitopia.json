@@ -1,0 +1,19 @@
+{
+    "chain_name": "gitopia-testnet",
+    "coingecko": "gitopia",
+    "api": ["https://api.gitopia.indonode.net/"],
+    "rpc": ["https://rpc.gitopia.indonode.net/"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.3",
+    "coin_type": "60",
+    "min_tx_fee": "1000",
+    "addr_prefix": "gitopia",
+    "logo": "/logos/gitopia.png",
+    "assets": [{
+        "base": "utlore",
+        "symbol": "TLORE",
+        "exponent": "6",
+        "coingecko_id": "gitopia",
+        "logo": "/logos/gitopia.png"
+    }]
+}
