@@ -1,0 +1,20 @@
+{
+    "chain_name": "lava",
+    "coingecko": "lava",
+    "api": ["https://api.lava.indonode.net/"],
+    "rpc": ["https://rpc.lava.indonode.net/"],
+    "sdk_version": "0.46.1",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "addr_prefix": "lava",
+    "logo": "/logos/lava.png",
+    "assets": [
+      {
+        "base": "ulava",
+        "symbol": "LAVA",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/lava.png"
+      }
+    ]
+  }
