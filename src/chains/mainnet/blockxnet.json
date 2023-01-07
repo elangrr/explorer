@@ -11,13 +11,13 @@
   "sdk_version": "0.45.6",
   "addr_prefix": "blockx",
   "min_tx_fee": "5000",
-  "logo": "/logos/blockx.svg",
+  "logo": "/logos/blockx.png",
   "assets": [
     {
       "symbol": "BCX",
       "base": "abcx",
       "exponent": 18,
-      "logo": "/logos/blockx.scg"
+      "logo": "/logos/blockx.png"
     }
   ]
 }
