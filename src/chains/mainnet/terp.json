@@ -1,0 +1,17 @@
+{
+  "chain_name": "mars",
+  "api": ["https://api.terp.indonode.net/"],
+  "rpc": ["https://rpc.terp.indonode.net/"],
+  "snapshot_provider": "",
+  "sdk_version": "0.45.6",
+  "coin_type": "118",
+  "min_tx_fee": "800",
+  "addr_prefix": "terp",
+  "logo": "/logos/terp.png",
+  "assets": [{
+      "base": "uterpx",
+      "symbol": "TERP",
+      "exponent": "6",
+      "logo": "/logos/terp.png"
+  }]
+}
