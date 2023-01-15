@@ -1,5 +1,5 @@
 {
-  "chain_name": "mars",
+  "chain_name": "terp",
   "api": ["https://api.terp.indonode.net/"],
   "rpc": ["https://rpc.terp.indonode.net/"],
   "snapshot_provider": "",
