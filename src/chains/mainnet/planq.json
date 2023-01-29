@@ -3,7 +3,7 @@
     "api": ["https://api.planq.indonode.net/"],
     "rpc": ["https://rpc.planq.indonode.net/"],
     "snapshot_provider": "",
-    "sdk_version": "0.46.4",
+    "sdk_version": "0.46.3",
     "coin_type": "118",
     "min_tx_fee": "1000000",
     "addr_prefix": "plq",
