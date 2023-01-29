@@ -2,6 +2,7 @@
   "chain_name": "planq",
   "api": ["https://rest.planq.network", "https://api.planq.indonode.net/"],
   "rpc": ["https://rpc.planq.network", "https://rpc.planq.indonode.net/"],
+  "coingecko": "planq",
   "snapshot_provider": "",
   "sdk_version": "0.46.3",
   "coin_type": "60",
@@ -13,7 +14,7 @@
       "base": "aplanq",
       "symbol": "planq",
       "exponent": "18",
-      "coingecko_id": "",
+      "coingecko_id": "planq",
       "logo": "/logos/planq.png"
   }]
 }
