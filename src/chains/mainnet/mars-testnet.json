@@ -1,9 +1,9 @@
 {
-    "chain_name": "mars",
+    "chain_name": "mars-testnet",
     "api": ["https://api.mars.indonode.net/"],
     "rpc": ["https://rpc.mars.indonode.net/"],
     "snapshot_provider": "",
-    "sdk_version": "0.46.7",
+    "sdk_version": "0.46.8",
     "coin_type": "118",
     "min_tx_fee": "800",
     "addr_prefix": "mars",
