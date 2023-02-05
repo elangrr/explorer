@@ -1,5 +1,5 @@
 {
-    "chain_name": "hypersign",
+    "chain_name": "hypersign-testnet",
     "coingecko": "",
     "api": ["https://api.hypersign.indonode.net", "https://api-t.hypersign.nodestake.top"],
     "rpc": [""],

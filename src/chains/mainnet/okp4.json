@@ -1,5 +1,5 @@
 {
-    "chain_name": "OKP4",
+    "chain_name": "okp4-testnet",
     "api": ["https://api.okp4.indonode.net"],
     "rpc": ["https://rpc.okp4.indonode.net"],
     "snapshot_provider": "",
