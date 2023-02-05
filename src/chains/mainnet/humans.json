@@ -1,5 +1,5 @@
 {
-    "chain_name": "testnet-1",
+    "chain_name": "humans-testnet",
     "coingecko": "humans-ai",
     "api": ["https://api.humans.indonode.net/"],
     "rpc": ["https://rpc.humans.indonode.net/"],

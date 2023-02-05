@@ -5,7 +5,7 @@
     "snapshot_provider": "",
     "sdk_version": "0.46.4",
     "coin_type": "118",
-    "min_tx_fee": "1000000",
+    "min_tx_fee": "30000000000",
     "addr_prefix": "plq",
     "logo": "/logos/planq.png",
     "assets": [
