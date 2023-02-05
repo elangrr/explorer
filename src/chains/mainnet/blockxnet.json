@@ -1,12 +1,12 @@
 {
-  "chain_name": "blockxnet",
+  "chain_name": "blockxnet-testnet",
   "coingecko": "blockxnet",
   "api": [
-    "https://api.blockxnet.indonode.net/"
+    "https://api.blockx.indonode.net/"
     
   ],
   "rpc": [
-    "https://rpc.blockxnet.indonode.net/"
+    "https://rpc.blockx.indonode.net/"
   ],
   "sdk_version": "0.45.6",
   "addr_prefix": "blockx",
