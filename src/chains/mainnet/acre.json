@@ -1,0 +1,22 @@
+{
+
+    "chain_name": "acre",
+    "api": ["https://api.acre.indonode.net/"],
+    "rpc": ["https://rpc.acre.indonode.net/"],
+    "coingecko": "acre",
+    "snapshot_provider": "",
+    "sdk_version": "0.45.10",
+    "coin_type": "65",
+    "min_tx_fee": "5000",
+    "addr_prefix": "acre",
+    "logo": "/logos/acre.png",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "assets": [{
+        "base": "aacre",
+        "symbol": "acre",
+        "exponent": "18",
+        "coingecko_id": "acre",
+        "logo": "/logos/acre.png"
+    }]
+  }
+  
