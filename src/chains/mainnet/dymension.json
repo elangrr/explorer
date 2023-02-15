@@ -1,0 +1,22 @@
+{
+    "chain_name": "dymension-testnet",
+    "coingecko": "dymension",
+    "api": ["https://api.dymension.indonode.net"],
+    "rpc": ["https://rpc.dymension.indonode.net"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.1",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "addr_prefix": "dym",
+    "logo": "/logos/dymension.png",
+    "assets": [
+      {
+        "base": "udym",
+        "symbol": "DYM",
+        "exponent": "6",
+        "coingecko_id": "dymension",
+        "logo": "/logos/dymension.png"
+      }
+    ]
+  }
+  
