@@ -1,7 +1,7 @@
 {
     "chain_name": "nibiru",
-    "api": ["https://api.nibiru.indonode.net/"],
-    "rpc": ["https://rpc.nibiru.indonode.net/"],
+    "api": ["https://nibiru-testnet.api.kjnodes.com/"],
+    "rpc": ["https://nibiru-testnet.rpc.kjnodes.com/"],
     "snapshot_provider": "",
     "sdk_version": "0.45.7",
     "coin_type": "118",

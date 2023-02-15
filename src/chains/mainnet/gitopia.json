@@ -1,10 +1,10 @@
 {
     "chain_name": "gitopia-testnet",
     "coingecko": "gitopia",
-    "api": ["https://api.gitopia.indonode.net/"],
-    "rpc": ["https://rpc.gitopia.indonode.net/"],
+    "api": ["https://api.gitopia.indonode.net/","https://gitopia-testnet.api.kjnodes.com/"],
+    "rpc": ["https://rpc.gitopia.indonode.net/","https://gitopia-testnet.rpc.kjnodes.com/"],
     "snapshot_provider": "",
-    "sdk_version": "0.46.3",
+    "sdk_version": "0.34.22",
     "coin_type": "50",
     "min_tx_fee": "1000",
     "addr_prefix": "gitopia",

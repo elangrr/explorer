@@ -1,10 +1,10 @@
 {
     "chain_name": "hypersign-testnet",
     "coingecko": "",
-    "api": ["https://api.hypersign.indonode.net", "https://api-t.hypersign.nodestake.top"],
-    "rpc": [""],
+    "api": ["https://api.hypersign.indonode.net", "https://api-t.hypersign.nodestake.top","https://hypersign-testnet.api.kjnodes.com/"],
+    "rpc": ["https://hypersign-testnet.rpc.kjnodes.com/"],
     "snapshot_provider": "",
-    "sdk_version": "0.45.7",
+    "sdk_version": "0.34.23",
     "coin_type": "118",
     "min_tx_fee": "500",
     "addr_prefix": "hid",
