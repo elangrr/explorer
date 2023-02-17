@@ -1,0 +1,19 @@
+{
+    "chain_name": "point",
+    "api": ["https://api.point.indonode.net/"],
+    "rpc": ["https://rpc.point.indonode.net/"],
+    "snapshot_provider": "",
+    "coingecko": "point",
+    "sdk_version": "0.45.9",
+    "coin_type": "118",
+    "min_tx_fee": "1000",
+    "addr_prefix": "point",
+    "logo": "/logos/point.png",
+    "assets": [{
+        "base": "apoint",
+        "symbol": "POINT",
+        "exponent": "18",
+        "coingecko_id": "point",
+        "logo": "/logos/point.png"
+    }]
+}
