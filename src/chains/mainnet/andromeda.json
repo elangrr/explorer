@@ -1,0 +1,24 @@
+{
+    "chain_name": "andromeda-testnet",
+    "coingecko": "andromeda",
+    "api": [
+      "https://api.andromeda-testnet.indonode.net/"
+      
+    ],
+    "rpc": [
+      "https://rpc.andromeda-testnet.indonode.net/"
+    ],
+    "sdk_version": "0.45.12",
+    "addr_prefix": "andr",
+    "min_tx_fee": "100",
+    "logo": "/logos/andromeda.png",
+    "assets": [
+      {
+        "symbol": "ANDR",
+        "base": "undr",
+        "exponent": 6,
+        "logo": "/logos/andromeda.png"
+      }
+    ]
+  }
+  
