@@ -2,13 +2,13 @@
   "chain_name": "blockxnet-testnet",
   "coingecko": "blockxnet",
   "api": [
-    "https://api.blockx.indonode.net/"
+    "https://api.blockx-t.indonode.net/"
     
   ],
   "rpc": [
-    "https://rpc.blockx.indonode.net/"
+    "https://rpc.blockx-t.indonode.net/"
   ],
-  "sdk_version": "0.45.6",
+  "sdk_version": "0.45.7",
   "addr_prefix": "blockx",
   "min_tx_fee": "5000",
   "logo": "/logos/blockx.png",
