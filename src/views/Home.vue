@@ -9,7 +9,7 @@
         <h1
           class="text-primary display-4 font-weight-bolder d-none d-md-block"
         >
-          Indonode Explorer<small class="flow-left"></small>
+          Indonode Explorer<small class="flow-left">Beta</small>
         </h1>
       </div>
     </b-link>
