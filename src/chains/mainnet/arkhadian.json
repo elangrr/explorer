@@ -1,0 +1,21 @@
+{
+
+    "chain_name": "arkhadian",
+    "api": ["https://api.arkhadian.indonode.net/"],
+    "rpc": ["https://rpc.arkhadian.indonode.net/"],
+    "coingecko": "arkh",
+    "snapshot_provider": "",
+    "sdk_version": "0.44.5",
+    "coin_type": "60",
+    "min_tx_fee": "5000",
+    "addr_prefix": "arkh",
+    "logo": "/logos/arkhadian.png",
+    "assets": [{
+        "base": "arkh",
+        "symbol": "ARKH",
+        "exponent": "6",
+        "coingecko_id": "arkhadian",
+        "logo": "/logos/arkhadian.png"
+    }]
+  }
+  
