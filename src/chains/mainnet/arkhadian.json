@@ -1,10 +1,9 @@
 {
-
     "chain_name": "arkhadian",
     "api": ["https://api.arkhadian.indonode.net/"],
     "rpc": ["https://rpc.arkhadian.indonode.net/"],
     "coingecko": "arkh",
-    "snapshot_provider": "",
+    "snapshot_provider": "arkh",
     "sdk_version": "0.44.5",
     "coin_type": "60",
     "min_tx_fee": "5000",
