@@ -1,0 +1,21 @@
+{
+
+    "chain_name": "lumenx",
+    "api": ["https://api.lumenx.indonode.net/"],
+    "rpc": ["https://rpc.lumenx.indonode.net/"],
+    "coingecko": "lumenx",
+    "snapshot_provider": "",
+    "sdk_version": "0.45.11",
+    "coin_type": "65",
+    "min_tx_fee": "5000",
+    "addr_prefix": "lumen",
+    "logo": "/logos/lumenx.png",
+    "assets": [{
+        "base": "ulumen",
+        "symbol": "LUMEN",
+        "exponent": "6",
+        "coingecko_id": "lumenx",
+        "logo": "/logos/lumenx.png"
+    }]
+  }
+  
