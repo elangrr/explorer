@@ -1,0 +1,20 @@
+{
+    "chain_name": "c4e",
+    "api": ["https://api.c4e.indonode.net/"],
+    "rpc": ["https://rpc.c4e.indonode.net/"],
+    "coingecko": "c4e",
+    "snapshot_provider": "c4e",
+    "sdk_version": "0.45.9",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "addr_prefix": "c4e",
+    "logo": "/logos/c4e.png",
+    "assets": [{
+        "base": "c4e",
+        "symbol": "C4E",
+        "exponent": "18",
+        "coingecko_id": "c4e",
+        "logo": "/logos/c4e.png"
+    }]
+  }
+  
