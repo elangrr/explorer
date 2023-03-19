@@ -1,0 +1,17 @@
+{
+    "chain_name": "bonusblock-testnet",
+    "api": ["https://api.bonusb-t.indonode.net/"],
+    "rpc": ["https://rpc.bonusb-t.indonode.net/"],
+    "sdk_version": "0.45.11",
+    "coin_type": "60",
+    "min_tx_fee": "5000",
+    "addr_prefix": "bonus",
+    "logo": "/logos/bonus.png",
+    "assets": [{
+        "base": "ubonus",
+        "symbol": "bonus",
+        "exponent": "6",
+        "logo": "/logos/bonus.png"
+    }]
+  }
+  
