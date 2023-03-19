@@ -1,0 +1,20 @@
+{
+    "chain_name": "coreum-testnet",
+    "api": ["https://api.coreum-t.indonode.net/"],
+    "rpc": ["https://rpc.coreum-t.indonode.net/"],
+    "coingecko": "coreum",
+    "snapshot_provider": "coreum",
+    "sdk_version": "0.45.11",
+    "coin_type": "60",
+    "min_tx_fee": "5000",
+    "addr_prefix": "testcore",
+    "logo": "/logos/coreum.png",
+    "assets": [{
+        "base": "utestcore",
+        "symbol": "TESTCORE",
+        "exponent": "6",
+        "coingecko_id": "coreum",
+        "logo": "/logos/coreum.png"
+    }]
+  }
+  
