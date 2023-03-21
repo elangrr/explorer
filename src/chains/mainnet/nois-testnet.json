@@ -1,0 +1,21 @@
+{
+    "chain_name": "nois-testnet",
+    "coingecko": "nois",
+    "api": ["https://api.nois-t.indonode.net/"],
+    "rpc": ["https://rpc.nois-t.indonode.net/"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.14",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "nois",
+    "logo": "/logos/nois.svg",
+    "assets": [
+      {
+        "base": "unois",
+        "symbol": "NOIS",
+        "exponent": "6",
+        "logo": "/logos/nois.svg"
+      }
+    ]
+  }
+  
