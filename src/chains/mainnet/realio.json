@@ -1,9 +1,9 @@
 {
-    "chain_name": "realio",
-    "api": ["https://api.realio.indonode.net/"],
-    "rpc": ["https://rpc.realio.indonode.net/"],
+    "chain_name": "realio-testnet",
+    "api": ["https://api.realio-t.indonode.net/"],
+    "rpc": ["https://rpc.realio-t.indonode.net/"],
     "snapshot_provider": "",
-    "sdk_version": "0.45.6",
+    "sdk_version": "0.46.1",
     "coin_type": "118",
     "min_tx_fee": "500",
     "addr_prefix": "realio",
