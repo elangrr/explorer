@@ -4,7 +4,7 @@
     "api": ["https://api.nois.indonode.net/"],
     "rpc": ["https://rpc.nois.indonode.net/"],
     "snapshot_provider": "",
-    "sdk_version": "0.46.1",
+    "sdk_version": "0.45.14",
     "coin_type": "118",
     "min_tx_fee": "800",
     "addr_prefix": "nois",

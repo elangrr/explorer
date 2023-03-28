@@ -1,8 +1,8 @@
 {
     "chain_name": "nois-testnet",
     "coingecko": "nois",
-    "api": ["https://api.nois-t.indonode.net/"],
-    "rpc": ["https://rpc.nois-t.indonode.net/"],
+    "api": ["https://nois3.api.t.stavr.tech", "https://nois-testnet.api.kjnodes.com/"],
+    "rpc": ["https://nois3.api.t.stavr.tech", "https://nois-testnet.rpc.kjnodes.com/"],
     "snapshot_provider": "",
     "sdk_version": "0.45.14",
     "coin_type": "118",
