@@ -1,0 +1,18 @@
+{
+    "chain_name": "terp-testnet",
+    "api": ["https://api.terp-t.indonode.net/"],
+    "rpc": ["https://rpc.terp-t.indonode.net/"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.1",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "terp",
+    "logo": "/logos/terp.jpg",
+    "assets": [{
+        "base": "upersyx",
+        "symbol": "TERP",
+        "exponent": "6",
+        "logo": "/logos/terp.jpg"
+    }]
+  }
+  
