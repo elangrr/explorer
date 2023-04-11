@@ -1,0 +1,22 @@
+{
+    "chain_name": "elys-testnet",
+    "coingecko": "elys",
+    "api": ["https://api.elys-t.indonode.net"],
+    "rpc": ["https://rpc.elys-t.indonode.net"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.7",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "addr_prefix": "elys",
+    "logo": "/logos/elys.png",
+    "assets": [
+      {
+        "base": "uelys",
+        "symbol": "ELYS",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/elys.png"
+      }
+    ]
+  }
+  
