@@ -1,8 +1,8 @@
 {
     "chain_name": "dymension-testnet",
     "coingecko": "dymension",
-    "api": ["https://api.dymension.indonode.net"],
-    "rpc": ["https://rpc.dymension.indonode.net"],
+    "api": ["https://dymension-testnet.api.kjnodes.com/"],
+    "rpc": ["https://dymension-testnet.rpc.kjnodes.com/"],
     "snapshot_provider": "",
     "sdk_version": "0.45.1",
     "coin_type": "118",

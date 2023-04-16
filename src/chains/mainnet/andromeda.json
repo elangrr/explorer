@@ -2,11 +2,11 @@
     "chain_name": "andromeda-testnet",
     "coingecko": "andromeda",
     "api": [
-      "https://api.andromeda-testnet.indonode.net/"
+      "https://andromeda-testnet.api.kjnodes.com/"
       
     ],
     "rpc": [
-      "https://rpc.andromeda-testnet.indonode.net/"
+      "https://andromeda-testnet.rpc.kjnodes.com/"
     ],
     "sdk_version": "0.45.12",
     "addr_prefix": "andr",
