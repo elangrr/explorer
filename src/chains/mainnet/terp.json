@@ -3,13 +3,13 @@
   "api": ["https://api.terp.indonode.net/"],
   "rpc": ["https://rpc.terp.indonode.net/"],
   "snapshot_provider": "",
-  "sdk_version": "0.47.3",
+  "sdk_version": "0.47.1",
   "coin_type": "118",
   "min_tx_fee": "800",
   "addr_prefix": "terp",
   "logo": "/logos/terp.png",
   "assets": [{
-      "base": "uterpx",
+      "base": "uterp",
       "symbol": "TERP",
       "exponent": "6",
       "logo": "/logos/terp.png"
