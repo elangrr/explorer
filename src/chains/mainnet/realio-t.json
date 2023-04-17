@@ -1,7 +1,7 @@
 {
-    "chain_name": "realio",
-    "api": ["https://api.realio.indonode.net/"],
-    "rpc": ["https://rpc.realio.indonode.net/"],
+    "chain_name": "realio-testnet",
+    "api": ["https://api-t.realio.nodestake.top"],
+    "rpc": ["https://rpc-t.realio.nodestake.top"],
     "snapshot_provider": "",
     "sdk_version": "0.46.1",
     "coin_type": "118",

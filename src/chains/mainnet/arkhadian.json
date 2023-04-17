@@ -1,7 +1,7 @@
 {
     "chain_name": "arkhadian",
-    "api": ["https://api.arkh.nodestake.top"],
-    "rpc": ["https://rpc.arkh.nodestake.top"],
+    "api": ["https://rest.cosmos.directory/arkh"],
+    "rpc": ["https://rpc.cosmos.directory/arkh"],
     "coingecko": "arkh",
     "snapshot_provider": "arkh",
     "sdk_version": "0.44.5",
