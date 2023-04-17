@@ -1,7 +1,7 @@
 {
     "chain_name": "terp-testnet",
-    "api": ["https://api.terp-t.indonode.net/"],
-    "rpc": ["https://rpc.terp-t.indonode.net/"],
+    "api": ["https://api-t.terp.nodestake.top"],
+    "rpc": ["https://rpc-t.terp.nodestake.top"],
     "snapshot_provider": "",
     "sdk_version": "0.45.1",
     "coin_type": "118",

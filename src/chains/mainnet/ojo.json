@@ -1,11 +1,11 @@
 {
     "chain_name": "ojo-testnet",
     "api": [
-      "https://api.ojo-t.indonode.net/"
+      "https://ojo-testnet.api.kjnodes.com/","https://api.ojo-t.indonode.net/"
       
     ],
     "rpc": [
-      "https://rpc.ojo-t.indonode.net/"
+      "https://ojo-testnet.rpc.kjnodes.com/","https://rpc.ojo-t.indonode.net/"
     ],
     "sdk_version": "0.46.7",
     "addr_prefix": "ojo",
