@@ -1,0 +1,22 @@
+{
+    "chain_name": "cascadia-testnet",
+    "coingecko": "cascadia",
+    "api": ["https://api.cascadia-t.indonode.net"],
+    "rpc": ["https://rpc.cascadia-t.indonode.net"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.1",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "addr_prefix": "cascadia",
+    "logo": "/logos/cascadia.png",
+    "assets": [
+      {
+        "base": "aCC",
+        "symbol": "CC",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/cascadia.png"
+      }
+    ]
+  }
+  
