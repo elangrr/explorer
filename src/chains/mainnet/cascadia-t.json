@@ -6,7 +6,7 @@
     "snapshot_provider": "",
     "sdk_version": "0.46.1",
     "coin_type": "118",
-    "min_tx_fee": "5000",
+    "min_tx_fee": "7",
     "addr_prefix": "cascadia",
     "logo": "/logos/cascadia.png",
     "assets": [
