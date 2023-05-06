@@ -1,8 +1,8 @@
 {
     "chain_name": "nois",
     "coingecko": "nois",
-    "api": ["https://api.nois.indonode.net/"],
-    "rpc": ["https://rpc.nois.indonode.net/"],
+    "api": ["https://nois.api.kjnodes.com/"],
+    "rpc": ["https://nois.rpc.kjnodes.com/"],
     "snapshot_provider": "",
     "sdk_version": "0.45.14",
     "coin_type": "118",
