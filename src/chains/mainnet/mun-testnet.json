@@ -1,0 +1,21 @@
+{
+    "chain_name": "mun-testnet",
+    "api": ["https://mun.api.t.anode.team","https://api-t.mun.nodestake.top"],
+    "rpc": ["https://mun.rpc.t.anode.team","https://rpc-t.mun.nodestake.top"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.15",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "addr_prefix": "mun",
+    "logo": "/logos/mun.png",
+    "assets": [
+      {
+        "base": "utmun",
+        "symbol": "MUN",
+        "exponent": "6",
+        "coingecko_id": "mun",
+        "logo": "/logos/mun.png"
+      }
+    ]
+  }
+  
