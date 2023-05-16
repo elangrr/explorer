@@ -1,0 +1,19 @@
+{
+    "chain_name": "gitopia",
+    "coingecko": "gitopia",
+    "api": ["https://api.bitcanna.indonode.net/","https://bitcanna.api.kjnodes.com/","https://rpc.cosmos.directory/bitcanna"],
+    "rpc": ["https://rpc.bitcanna.indonode.net/","https://bitcanna.rpc.kjnodes.com/","https://rest.cosmos.directory/bitcanna"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.15",
+    "coin_type": "118",
+    "min_tx_fee": "0.1",
+    "addr_prefix": "bcna",
+    "logo": "/logos/bitcanna.png",
+    "assets": [{
+        "base": "ubcna",
+        "symbol": "BCNA",
+        "exponent": "6",
+        "coingecko_id": "bitcanna",
+        "logo": "/logos/bitcanna.png"
+    }]
+}
