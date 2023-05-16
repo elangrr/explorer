@@ -1,6 +1,6 @@
 {
-    "chain_name": "gitopia",
-    "coingecko": "gitopia",
+    "chain_name": "bitcanna",
+    "coingecko": "bitcanna",
     "api": ["https://api.bitcanna.indonode.net/","https://bitcanna.api.kjnodes.com/","https://rpc.cosmos.directory/bitcanna"],
     "rpc": ["https://rpc.bitcanna.indonode.net/","https://bitcanna.rpc.kjnodes.com/","https://rest.cosmos.directory/bitcanna"],
     "snapshot_provider": "",
