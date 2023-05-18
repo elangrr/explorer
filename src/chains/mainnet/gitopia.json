@@ -5,8 +5,8 @@
     "rpc": ["https://rpc.gitopia.indonode.net/","https://gitopia.rpc.kjnodes.com/"],
     "snapshot_provider": "",
     "sdk_version": "0.46.20",
-    "coin_type": "60",
-    "min_tx_fee": "0.1",
+    "coin_type": "118",
+    "min_tx_fee": "0.001",
     "addr_prefix": "gitopia",
     "logo": "/logos/gitopia.png",
     "assets": [{
