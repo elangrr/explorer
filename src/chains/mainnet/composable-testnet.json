@@ -1,6 +1,6 @@
 {
     "chain_name": "composable-testnet",
-    "api": ["https://api.composable-t.indonode.net/","https://composable-testnet.api.kjnodes.com/"],
+    "api": ["https://composable-testnet.api.kjnodes.com/"],
     "rpc": ["https://rpc.composable-t.indonode.net/","https://composable-testnet.rpc.kjnodes.com/"],
     "snapshot_provider": "",
     "sdk_version": "0.47.1",
