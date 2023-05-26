@@ -1,0 +1,20 @@
+{
+    "chain_name": "quicksilver-testnet",
+    "api": ["https://api.quicksilver-t.indonode.net/"],
+    "rpc": ["https://rpc.quicksilver-t.indonode.net/"],
+    "snapshot_provider": "5449ad4bd52cb7584ca83bd97942a4b221b63e38@rpc.quicksilver-t.indonode.net:50656",
+    "sdk_version": "0.46.12",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "quicksilver",
+    "logo": "/logos/quicksilver.png",
+    "assets": [
+      {
+        "base": "uqck",
+        "symbol": "QCK",
+        "exponent": "6",
+        "logo": "/logos/quicksilver.png"
+      }
+    ]
+  }
+
