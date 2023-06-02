@@ -1,7 +1,7 @@
 {
-    "chain_name": "composable-testnet",
-    "api": ["https://composable-testnet.api.kjnodes.com/"],
-    "rpc": ["https://rpc.composable-t.indonode.net/","https://composable-testnet.rpc.kjnodes.com/"],
+    "chain_name": "composable-testnet-3",
+    "api": ["https://composable-testnet-api.polkachu.com/"],
+    "rpc": ["https://composable-testnet-rpc.polkachu.com/"],
     "snapshot_provider": "",
     "sdk_version": "0.47.1",
     "coin_type": "118",
@@ -10,7 +10,7 @@
     "logo": "/logos/composable.png",
     "assets": [
       {
-        "base": "upica",
+        "base": "ppica",
         "symbol": "PICA",
         "exponent": "6",
         "logo": "/logos/composable.png"
