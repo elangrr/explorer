@@ -1,0 +1,18 @@
+{
+    "chain_name": "Noria",
+    "api":[ "https://api.noria-t.indonode.net","https://api.noria-testnet.stake-take.com" ],
+    "rpc":[ "https://rpc.noria-t.indonode.net","https://rpc.noria-testnet.stake-take.com" ],
+    "snapshot_provider": "",
+    "sdk_version": "0.47.2",
+    "coin_type": 118,
+    "min_tx_fee": "0",
+    "addr_prefix": "noria",
+    "logo": "/logos/noria.jpg",
+    "assets": [{
+        "base": "unoria",
+        "symbol": "NORIA",
+        "exponent": 6,
+        "coingecko_id": "efe1e1f891f785e6541ad18ff228ea61894dd980@rpc.noria-t.indonode.net:51656",
+        "logo": "/logos/noria.jpg"
+    }]
+}
