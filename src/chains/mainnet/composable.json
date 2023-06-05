@@ -1,0 +1,20 @@
+{
+    "chain_name": "composable",
+    "api": ["https://composable-api.polkachu.com"],
+    "rpc": ["https://composable-rpc.polkachu.com"],
+    "snapshot_provider": "",
+    "sdk_version": "0.47.1",
+    "coin_type": "118",
+    "min_tx_fee": "0",
+    "addr_prefix": "banksy",
+    "logo": "/logos/composable.png",
+    "assets": [
+      {
+        "base": "ppica",
+        "symbol": "PICA",
+        "exponent": "6",
+        "logo": "/logos/composable.png"
+      }
+    ]
+  }
+  
