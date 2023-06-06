@@ -12,7 +12,7 @@
       {
         "base": "ppica",
         "symbol": "PICA",
-        "exponent": "6",
+        "exponent": "12",
         "logo": "/logos/composable.png"
       }
     ]
