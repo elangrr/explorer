@@ -1,0 +1,17 @@
+{
+    "chain_name": "timpi-testnet",
+    "api":[ "https://api.timpi-t.indonode.net","https://api-t.timpi.nodestake.top" ],
+    "rpc":[ "https://rpc.timpi-t.indonode.net","https://rpc-t.timpi.nodestake.top" ],
+    "snapshot_provider": "668946d970e188bf0af304b45afff2334c08bae9@rpc.timpi-t.indonode.net:53656",
+    "sdk_version": "0.45.6",
+    "coin_type": 118,
+    "min_tx_fee": "0",
+    "addr_prefix": "timpi",
+    "logo": "/logos/timpi.png",
+    "assets": [{
+        "base": "utimpiTN",
+        "symbol": "TMPITN",
+        "exponent": 6,
+        "logo": "/logos/timpi.png"
+    }]
+}
