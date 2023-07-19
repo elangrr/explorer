@@ -1,0 +1,21 @@
+{
+    "chain_name": "mun",
+    "api": ["https://api.mun.indonode.net"],
+    "rpc": ["https://rpc.mun.indonode.net"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.16",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "addr_prefix": "mun",
+    "logo": "/logos/mun.png",
+    "assets": [
+      {
+        "base": "umun",
+        "symbol": "MUN",
+        "exponent": "6",
+        "coingecko_id": "mun",
+        "logo": "/logos/mun.png"
+      }
+    ]
+  }
+  
