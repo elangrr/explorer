@@ -1,0 +1,20 @@
+{
+    "chain_name": "band",
+    "api": ["https://rest.cosmos.directory/bandchain","https://api.band.indonode.net","https://band-api.w3coins.io"],
+    "rpc": ["https://rpc.cosmos.directory/bandchain","https://rpc.band.indonode.net","https://band-rpc.w3coins.io"],
+    "snapshot_provider": "d3fe7586b604196461db92c2c7cf72eb354af1fc@rpc.band.indonode.net:12656",
+    "sdk_version": "0.45.15",
+    "coin_type": "118",
+    "min_tx_fee": "0",
+    "addr_prefix": "band",
+    "logo": "/logos/band.png",
+    "assets": [
+      {
+        "base": "uband",
+        "symbol": "BAND",
+        "exponent": "6",
+        "logo": "/logos/band.png"
+      }
+    ]
+  }
+  
