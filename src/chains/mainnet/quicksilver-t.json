@@ -1,8 +1,8 @@
 {
     "chain_name": "quicksilver-testnet",
-    "api": ["https://api.quicksilver-t.indonode.net/"],
-    "rpc": ["https://rpc.quicksilver-t.indonode.net/"],
-    "snapshot_provider": "5449ad4bd52cb7584ca83bd97942a4b221b63e38@rpc.quicksilver-t.indonode.net:50656",
+    "api": ["https://quicksilver-testnet.api.kjnodes.com","https://api.quicksilver-t.indonode.net/"],
+    "rpc": ["https://quicksilver-testnet.rpc.kjnodes.com","https://rpc.quicksilver-t.indonode.net/"],
+    "snapshot_provider": "",
     "sdk_version": "0.46.12",
     "coin_type": "118",
     "min_tx_fee": "800",

@@ -1,8 +1,8 @@
 {
     "chain_name": "quicksilver",
     "coingecko": "quicksilver",
-    "api": ["https://api.quicksilver.indonode.net/"],
-    "rpc": ["https://rpc.quicksilver.indonode.net/"],
+    "api": ["https://quicksilver.api.kjnodes.com","https://api.quicksilver.indonode.net/"],
+    "rpc": ["https://quicksilver.rpc.kjnodes.com","https://rpc.quicksilver.indonode.net/"],
     "snapshot_provider": "3461638afd470034067392e5dba8dcf6de49f81f@rpc.quicksilver.indonode,net:28656",
     "sdk_version": "0.46.12",
     "coin_type": "118",

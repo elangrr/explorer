@@ -1,9 +1,9 @@
 {
     "chain_name": "nolus",
     "coingecko": "nolus",
-    "api": ["https://api.nolus.indonode.net/"],
-    "rpc": ["https://rpc.nolus.indonode.net/"],
-    "snapshot_provider": "25818648522d46a18975a1e33966acc8273debeb@rpc.nolus.indonode.net:29656",
+    "api": ["https://nolus-testnet.api.kjnodes.com","https://api.nolus.indonode.net/"],
+    "rpc": ["https://nolus-testnet.rpc.kjnodes.com","https://rpc.nolus.indonode.net/"],
+    "snapshot_provider": "",
     "sdk_version": "0.45.15",
     "coin_type": "118",
     "min_tx_fee": "2500",

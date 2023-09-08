@@ -1,8 +1,8 @@
 {
     "chain_name": "gitopia",
     "coingecko": "gitopia",
-    "api": ["https://api.gitopia.indonode.net/","https://gitopia.api.kjnodes.com/"],
-    "rpc": ["https://rpc.gitopia.indonode.net/","https://gitopia.rpc.kjnodes.com/"],
+    "api": ["https://gitopia.api.kjnodes.com/","https://api.gitopia.indonode.net/"],
+    "rpc": ["https://gitopia.rpc.kjnodes.com/","https://rpc.gitopia.indonode.net/"],
     "snapshot_provider": "",
     "sdk_version": "0.46.20",
     "coin_type": "118",

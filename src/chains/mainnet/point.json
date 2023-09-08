@@ -1,7 +1,7 @@
 {
     "chain_name": "point",
-    "api": ["https://api.point.indonode.net/"],
-    "rpc": ["https://rpc.point.indonode.net/"],
+    "api": ["https://api.point.nodestake.top","https://api.point.indonode.net/"],
+    "rpc": ["https://rpc.point.nodestake.top","https://rpc.point.indonode.net/"],
     "snapshot_provider": "",
     "coingecko": "point",
     "sdk_version": "0.45.9",

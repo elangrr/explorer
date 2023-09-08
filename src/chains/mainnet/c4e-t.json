@@ -1,8 +1,7 @@
 {
     "chain_name": "c4e-testnet",
-    "api": ["https://api.c4e-t.indonode.net/"],
-    "rpc": ["https://rpc.c4e-t.indonode.net/"],
-    "snapshot_provider": "48051143b7d1fde04fed55c73f19a66ef89f4cdd@rpc.c4e-t.indonode.net:48656",
+    "api": ["https://api-t.c4e.nodestake.top","https://api.c4e-t.indonode.net/"],
+    "rpc": ["https://rpc-t.c4e.nodestake.top","https://rpc.c4e-t.indonode.net/"],
     "sdk_version": "0.46.10",
     "coin_type": "118",
     "min_tx_fee": "5000",

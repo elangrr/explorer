@@ -1,8 +1,8 @@
 {
     "chain_name": "bitcanna",
     "coingecko": "bitcanna",
-    "api": ["https://api.bitcanna.indonode.net/","https://bitcanna.api.kjnodes.com/","https://rpc.cosmos.directory/bitcanna"],
-    "rpc": ["https://rpc.bitcanna.indonode.net/","https://bitcanna.rpc.kjnodes.com/","https://rest.cosmos.directory/bitcanna"],
+    "api": ["https://bitcanna.api.kjnodes.com/","https://rpc.cosmos.directory/bitcanna"],
+    "rpc": ["https://bitcanna.rpc.kjnodes.com/","https://rest.cosmos.directory/bitcanna"],
     "snapshot_provider": "",
     "sdk_version": "0.45.15",
     "coin_type": "118",

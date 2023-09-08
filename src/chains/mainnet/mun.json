@@ -1,7 +1,7 @@
 {
     "chain_name": "mun",
-    "api": ["https://api.mun.indonode.net"],
-    "rpc": ["https://rpc.mun.indonode.net"],
+    "api": ["https://api.mun.nodestake.top","https://api.mun.indonode.net"],
+    "rpc": ["https://rpc.mun.nodestake.top","https://rpc.mun.indonode.net"],
     "snapshot_provider": "",
     "sdk_version": "0.45.16",
     "coin_type": "118",

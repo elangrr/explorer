@@ -1,8 +1,8 @@
 {
     "chain_name": "elys-testnet",
     "coingecko": "elys",
-    "api": ["https://api.elys-t.indonode.net"],
-    "rpc": ["https://rpc.elys-t.indonode.net"],
+    "api": ["https://elys-testnet.api.kjnodes.com","https://api.elys-t.indonode.net"],
+    "rpc": ["https://elys-testnet.rpc.kjnodes.com","https://rpc.elys-t.indonode.net"],
     "snapshot_provider": "",
     "sdk_version": "0.46.7",
     "coin_type": "118",

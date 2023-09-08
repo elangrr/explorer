@@ -1,7 +1,7 @@
 {
     "chain_name": "archway-testnet",
-    "api": ["https://api.archway-t.indonode.net/"],
-    "rpc": ["https://rpc.archway-t.indonode.net/"],
+    "api": ["https://archway-testnet-api.polkachu.com/"],
+    "rpc": ["https://archway-testnet-rpc.polkachu.com/"],
     "snapshot_provider": "",
     "sdk_version": "0.45.14",
     "coin_type": "118",

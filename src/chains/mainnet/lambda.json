@@ -1,7 +1,7 @@
 {
     "chain_name": "lambda",
-    "api": ["https://api.lambda.indonode.net", "https://rest.lambda.im", "https://api.lambda.nodestake.top", "https://lambda-api.jambulmerah.dev"],
-    "rpc": ["https://rpc.lambda.indonode.net","https://rpc.lambda.im", "https://rpc.lambda.nodestake.top", "https://lambda-rpc.jambulmerah.dev"],
+    "api": ["https://rest.lambda.im","https://api.lambda.indonode.net", "https://api.lambda.nodestake.top", "https://lambda-api.jambulmerah.dev"],
+    "rpc": ["https://rpc.lambda.im","https://rpc.lambda.indonode.net", "https://rpc.lambda.nodestake.top", "https://lambda-rpc.jambulmerah.dev"],
     "sdk_version": "0.45.6",
     "coin_type": "49",
     "min_tx_fee": "5000",

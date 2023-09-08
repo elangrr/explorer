@@ -1,7 +1,7 @@
 {
     "chain_name": "noria-testnet",
-    "api":[ "https://api.noria-t.indonode.net","https://api.noria-testnet.stake-take.com" ],
-    "rpc":[ "https://rpc.noria-t.indonode.net","https://rpc.noria-testnet.stake-take.com" ],
+    "api":[ "https://noria-testnet.api.kjnodes.com","https://api.noria-t.indonode.net","https://api.noria-testnet.stake-take.com" ],
+    "rpc":[ "https://noria-testnet.rpc.kjnodes.com","https://rpc.noria-t.indonode.net","https://rpc.noria-testnet.stake-take.com" ],
     "snapshot_provider": "efe1e1f891f785e6541ad18ff228ea61894dd980@rpc.noria-t.indonode.net:51656",
     "sdk_version": "0.47.2",
     "coin_type": 118,

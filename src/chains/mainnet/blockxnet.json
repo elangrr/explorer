@@ -2,11 +2,11 @@
   "chain_name": "blockxnet-testnet",
   "coingecko": "blockxnet",
   "api": [
-    "https://api.blockx-t.indonode.net/"
+    "https://api-t.blockx.nodestake.top"
     
   ],
   "rpc": [
-    "https://rpc.blockx-t.indonode.net/"
+    "https://rpc-t.blockx.nodestake.top"
   ],
   "sdk_version": "0.45.7",
   "addr_prefix": "blockx",
