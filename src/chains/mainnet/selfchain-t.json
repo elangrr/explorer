@@ -1,0 +1,20 @@
+{
+    "chain_name": "selfchain-testnet",
+    "api": ["https://api-t.self.nodestake.top","https://api.selfchain-t.indonode.net"],
+    "rpc": ["https://rpc-t.self.nodestake.top","https://rpc.selfchain-t.indonode.net"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.7",
+    "coin_type": "118",
+    "min_tx_fee": "0",
+    "addr_prefix": "self",
+    "logo": "/logos/selfchain.jpg",
+    "assets": [
+      {
+        "base": "uself",
+        "symbol": "SELF",
+        "exponent": "6",
+        "logo": "/logos/selfchain.jpg"
+      }
+    ]
+  }
+  
