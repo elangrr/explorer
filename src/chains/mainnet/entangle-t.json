@@ -1,0 +1,20 @@
+{
+    "chain_name": "entangle-testnet",
+    "api": ["https://api.entangle-t.indonode.net/","https://api-entangle.vinjan.xyz"],
+    "rpc": ["https://rpc.entangle-t.indonode.net/","https://rpc-entangle.vinjan.xyz"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.12",
+    "coin_type": "118",
+    "min_tx_fee": "0",
+    "addr_prefix": "ethm",
+    "logo": "/logos/entangle.png",
+    "assets": [
+      {
+        "base": "aNGL",
+        "symbol": "NGL",
+        "exponent": "18",
+        "logo": "/logos/entangle.png"
+      }
+    ]
+  }
+  
