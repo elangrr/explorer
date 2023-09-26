@@ -1,0 +1,20 @@
+{
+    "chain_name": "mantra-testnet",
+    "api": ["https://api.mantra-t.indonode.net/","https://api-t.mantra.nodestake.top"],
+    "rpc": ["https://rpc.mantra-t.indonode.net/","https://rpc-t.mantra.nodestake.top"],
+    "snapshot_provider": "",
+    "sdk_version": "0.47.4",
+    "coin_type": "118",
+    "min_tx_fee": "0",
+    "addr_prefix": "mantra",
+    "logo": "/logos/mantra.jpg",
+    "assets": [
+      {
+        "base": "uaum",
+        "symbol": "AUM",
+        "exponent": "6",
+        "logo": "/logos/mantra.jpg"
+      }
+    ]
+  }
+  
