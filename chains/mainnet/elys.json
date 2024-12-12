@@ -1,0 +1,27 @@
+{
+    "chain_name": "elys",
+    "registry_name": "elys",
+    "api": [
+
+        {"provider": "Indonode", "address": "https://api.elys.indonode.net"},
+        {"provider": "Elys", "address": "https://api.elys.network"}
+
+
+    ],
+    "rpc": [
+        {"provider": "Indonode", "address": "https://rpc.elys.indonode.net"},
+        {"provider": "Elys", "address": "https://rpc.elys.network"}
+    ],
+    "sdk_version": "0.50.9",
+    "coin_type": "118",
+    "min_tx_fee": "0.0003",
+    "addr_prefix": "elys",
+    "logo": "/logos/elys.jpg",
+    "assets": [
+      {
+        "base": "uelys",
+        "symbol": "ELYS",
+        "exponent": "6",
+        "logo": "/logos/elys.jpg"
+    }]
+}
