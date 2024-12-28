@@ -2,27 +2,49 @@
     "chain_name": "realio",
     "registry_name": "realio",
     "api": [
-        {"provider": "Nodestake", "address": "https://api.realio.nodestake.top"},
         {"provider": "Indonode", "address": "https://api.realio.indonode.net"}
-
-
-
     ],
     "rpc": [
-        {"provider": "Nodestake", "address": "https://rpc.realio.nodestake.top/"},
         {"provider": "Indonode", "address": "https://rpc.realio.indonode.net"}
-
     ],
-    "sdk_version": "0.46.11",
+    "sdk_version": "0.50.11",
     "coin_type": "118",
     "min_tx_fee": "500",
     "addr_prefix": "realio",
     "logo": "/logos/realio.png",
-    "assets": [{
-        "base": "ario,arst",
-        "symbol": "RIO,RST",
-        "exponent": "18",
-        "coingecko_id": "realio-network",
-        "logo": "/logos/realio.png"
-    }]
+    "assets": [
+        {
+            "base": "ario",
+            "denom_units": [
+                {"denom": "ario", "exponent": 0},
+                {"denom": "RIO", "exponent": 18}
+            ],
+            "symbol": "RIO",
+            "exponent": 18,
+            "coingecko_id": "realio-network",
+            "logo": "/logos/realio.png"
+        },
+        {
+            "base": "arst",
+            "denom_units": [
+                {"denom": "arst", "exponent": 0},
+                {"denom": "RST", "exponent": 18}
+            ],
+            "symbol": "RST",
+            "exponent": 18,
+            "coingecko_id": "realio-network",
+            "logo": "/logos/realio.png"
+        },
+        {
+            "base": "almx",
+            "denom_units": [
+                {"denom": "almx", "exponent": 0},
+                {"denom": "LMX", "exponent": 18}
+            ],
+            "symbol": "LMX",
+            "exponent": 18,
+            "coingecko_id": "realio-network",
+            "logo": "/logos/realio.png"
+        }
+    ]
 }
