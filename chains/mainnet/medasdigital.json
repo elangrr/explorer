@@ -1,0 +1,26 @@
+{
+    "chain_name": "medasdigital",
+    "registry_name": "medasdigital",
+    "api": [
+
+        {"provider": "Indonode", "address": "https://api.medasdigital.indonode.net"}
+
+
+    ],
+    "rpc": [
+        {"provider": "Indonode", "address": "https://rpc.medasdigital.indonode.net"}
+    ],
+    "sdk_version": "0.50.10",
+    "coin_type": "118",
+    "min_tx_fee": "0.025",
+    "addr_prefix": "medasdigital",
+    "logo": "/logos/medasdigital.jpg",
+    "assets": [
+      {
+        "base": "umedas",
+        "symbol": "MEDAS",
+        "exponent": "6",
+        "coingecko_id": "",        
+        "logo": "/logos/medasdigital.jpg"
+    }]
+}
