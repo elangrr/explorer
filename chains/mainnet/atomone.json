@@ -2,13 +2,11 @@
     "chain_name": "atomone",
     "registry_name": "atomone",
     "api": [
-        {"provider": "Allinbits", "address": "https://atomone-api.allinbits.services"},
-        {"provider": "Indonode", "address": "https://rpc.atomone.indonode.net"}
+        {"provider": "Indonode", "address": "https://api.atomone.indonode.net"}
 
     ],
     "rpc": [
 
-        {"provider": "Allinbits", "address": "https://atomone-rpc.allinbits.services"},
         {"provider": "Indonode", "address": "https://rpc.atomone.indonode.net"}
     ],
     "sdk_version": "0.47.13",
