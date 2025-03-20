@@ -2,26 +2,24 @@
     "chain_name": "selfchain-testnet",
     "registry_name": "selfchain-testnet",
     "api": [
-        {"provider": "Nodestake", "address": "https://api-t.self.nodestake.top"},
         {"provider": "Indonode", "address": "https://api.selfchain-t.indonode.net"}
 
 
 
     ],
     "rpc": [
-        {"provider": "Nodestake", "address": "https://rpc-t.self.nodestake.top"},
         {"provider": "Indonode", "address": "https://rpc.selfchain-t.indonode.net"}
 
     ],
-    "sdk_version": "0.46.7",
+    "sdk_version": "0.47.10",
     "coin_type": "118",
     "min_tx_fee": "0",
     "addr_prefix": "self",
     "logo": "/logos/selfchain.jpg",
     "assets": [
       {
-        "base": "uself",
-        "symbol": "SELF",
+        "base": "uslf",
+        "symbol": "SLF",
         "exponent": "6",
         "logo": "/logos/selfchain.jpg"
     }]
