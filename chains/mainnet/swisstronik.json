@@ -1,0 +1,30 @@
+{
+    "chain_name": "swisstronik",
+    "registry_name": "swisstronik",
+    "api": [
+
+        {"provider": "Indonode", "address": "https://api.swisstronik.indonode.net"},
+        {"provider": "Kjnodes", "address": "https://swisstronik.api.kjnodes.com"}
+
+
+
+
+    ],
+    "rpc": [
+
+        {"provider": "Indonode", "address": "https://rpc.swisstronik.indonode.net"},
+        {"provider": "Kjnodes", "address": "https://swisstronik.rpc.kjnodes.com"}
+    ],
+    "sdk_version": "0.47.5",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "addr_prefix": "swtr",
+    "logo": "/logos/swisstronik.png",
+    "assets": [{
+        "base": "aswtr",
+        "symbol": "SWTR",
+        "exponent": "18",
+        "coingecko_id": "",
+        "logo": "/logos/swisstronik.png"
+    }]
+}
