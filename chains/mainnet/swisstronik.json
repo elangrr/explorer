@@ -3,7 +3,6 @@
     "registry_name": "swisstronik",
     "api": [
 
-        {"provider": "Indonode", "address": "https://api.swisstronik.indonode.net"},
         {"provider": "Kjnodes", "address": "https://swisstronik.api.kjnodes.com"}
 
 
@@ -12,7 +11,6 @@
     ],
     "rpc": [
 
-        {"provider": "Indonode", "address": "https://rpc.swisstronik.indonode.net"},
         {"provider": "Kjnodes", "address": "https://swisstronik.rpc.kjnodes.com"}
     ],
     "sdk_version": "0.47.5",
