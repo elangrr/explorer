@@ -1,0 +1,23 @@
+{
+    "chain_name": "odiseo-testnet",
+    "registry_name": "odiseo-testnet",
+    "api": [
+        {"provider": "Indonode", "address": "https://api.odiseo-t.indonode.net"}
+
+    ],
+    "rpc": [
+        {"provider": "Indonode", "address": "https://rpc.odiseo-t.indonode.net"}
+    ],
+    "sdk_version": "0.50.8",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "odiseo",
+    "logo": "/logos/odiseo.png",
+    "assets": [
+      {
+        "base": "uodis",
+        "symbol": "ODIS",
+        "exponent": "6",
+        "logo": "/logos/odiseo.png"
+    }]
+}
