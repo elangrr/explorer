@@ -1,0 +1,26 @@
+{
+    "chain_name": "axone",
+    "registry_name": "axone",
+    "api": [
+        {"provider": "Indonode", "address": "https://api.axone.indonode.net"},
+        {"provider": "Nodestake", "address": "https://api.axone.nodestake.org"}
+
+    ],
+    "rpc": [
+
+        {"provider": "Indonode", "address": "https://rpc.axone.indonode.net"},
+        {"provider": "Nodestake", "address": "https://rpc.axone.nodestake.org"}
+    ],
+    "sdk_version": "0.50.13",
+    "coin_type": "118",
+    "min_tx_fee": "0.001",
+    "addr_prefix": "axone",
+    "logo": "/logos/axone.jpg",
+    "assets": [{
+        "base": "uaxone",
+        "symbol": "AXONE",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/axone.jpg"
+    }]
+}
