@@ -2,11 +2,13 @@
     "chain_name": "odiseo-testnet",
     "registry_name": "odiseo-testnet",
     "api": [
-        {"provider": "Indonode", "address": "https://api.odiseo-t.indonode.net"}
+        {"provider": "Indonode", "address": "https://api.odiseo-t.indonode.net"},
+        {"provider": "Nodeshub", "address": "https://odiseo.test.api.nodeshub.online"}
 
     ],
     "rpc": [
-        {"provider": "Indonode", "address": "https://rpc.odiseo-t.indonode.net"}
+        {"provider": "Indonode", "address": "https://rpc.odiseo-t.indonode.net"},
+        {"provider": "Nodeshub", "address": "https://odiseo.test.rpc.nodeshub.online"}
     ],
     "sdk_version": "0.50.8",
     "coin_type": "118",

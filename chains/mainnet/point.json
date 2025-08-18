@@ -3,14 +3,17 @@
     "registry_name": "point",
     "api": [
         {"provider": "Nodestake", "address": "https://api.point.nodestake.top"},
-        {"provider": "Indonode", "address": "https://api.point.indonode.net"}
+        {"provider": "Indonode", "address": "https://api.point.indonode.net"},
+        {"provider": "Cosmos Directory", "address": "https://rest.cosmos.directory/point"}
+        
 
 
 
     ],
     "rpc": [
         {"provider": "Nodestake", "address": "https://rpc.point.nodestake.top"},
-        {"provider": "Indonode", "address": "https://rpc.point.indonode.net"}
+        {"provider": "Indonode", "address": "https://rpc.point.indonode.net"},
+        {"provider": "Cosmos Directory", "address": "https://rpc.cosmos.directory/point"}
 
     ],
     "sdk_version": "0.45.9",

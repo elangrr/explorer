@@ -2,10 +2,12 @@
     "chain_name": "realio",
     "registry_name": "realio",
     "api": [
-        {"provider": "Indonode", "address": "https://api.realio.indonode.net"}
+        {"provider": "Indonode", "address": "https://api.realio.indonode.net"},
+        {"provider": "Cosmos Directory", "address": "https://rest.cosmos.directory/realio"}
     ],
     "rpc": [
-        {"provider": "Indonode", "address": "https://rpc.realio.indonode.net"}
+        {"provider": "Indonode", "address": "https://rpc.realio.indonode.net"},
+        {"provider": "Cosmos Directory", "address": "https://rpc.cosmos.directory/realio"}
     ],
     "sdk_version": "0.50.11",
     "coin_type": "118",

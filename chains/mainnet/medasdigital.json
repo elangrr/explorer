@@ -3,12 +3,13 @@
     "registry_name": "medasdigital",
     "api": [
 
-        {"provider": "Indonode", "address": "https://api.medasdigital.indonode.net"}
-
+        {"provider": "Indonode", "address": "https://api.medasdigital.indonode.net"},
+        {"provider": "Cosmos Directory", "address": "https://rest.cosmos.directory/medasdigital"}
 
     ],
     "rpc": [
-        {"provider": "Indonode", "address": "https://rpc.medasdigital.indonode.net"}
+        {"provider": "Indonode", "address": "https://rpc.medasdigital.indonode.net"},
+        {"provider": "Cosmos Directory", "address": "https://rpc.cosmos.directory/medasdigital"}
     ],
     "sdk_version": "0.50.10",
     "coin_type": "118",

@@ -4,7 +4,8 @@
     "api": [
 
         {"provider": "Nodestake", "address": "https://api.c4e.nodestake.top"},
-        {"provider": "Indonode", "address": "https://api.c4e.indonode.net"}
+        {"provider": "Indonode", "address": "https://api.c4e.indonode.net"},
+        {"provider": "Cosmos Directory", "address": "https://rest.cosmos.directory/chain4energy"}
 
 
 
@@ -12,7 +13,8 @@
     "rpc": [
 
         {"provider": "Nodestake", "address": "https://rpc.c4e.nodestake.top"},
-        {"provider": "Indonode", "address": "https://rpc.c4e.indonode.net"}
+        {"provider": "Indonode", "address": "https://rpc.c4e.indonode.net"},
+        {"provider": "Cosmos Directory", "address": "https://rpc.cosmos.directory/chain4energy"}
 
 
     ],

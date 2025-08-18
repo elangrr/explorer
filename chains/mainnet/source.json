@@ -3,7 +3,8 @@
     "registry_name": "source",
     "api": [
         {"provider": "Indonode", "address": "https://api.source.indonode.net"},
-        {"provider": "Nodestake", "address": "https://api.source.nodestake.top"}
+        {"provider": "Nodestake", "address": "https://api.source.nodestake.top"},
+        {"provider": "Cosmos Directory", "address": "https://rest.cosmos.directory/source"}
 
 
 
@@ -11,7 +12,8 @@
     ],
     "rpc": [
         {"provider": "Indonode", "address": "https://rpc.source.indonode.net"},
-        {"provider": "Nodestake", "address": "https://rpc.source.nodestake.top"}
+        {"provider": "Nodestake", "address": "https://rpc.source.nodestake.top"},
+        {"provider": "Cosmos Directory", "address": "https://rpc.cosmos.directory/source"}
 
 
     ],
