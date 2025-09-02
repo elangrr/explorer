@@ -2,12 +2,15 @@
     "chain_name": "atomone",
     "registry_name": "atomone",
     "api": [
-        {"provider": "Indonode", "address": "https://api.atomone.indonode.net"}
+        {"provider": "Indonode", "address": "https://api.atomone.indonode.net"},
+         {"provider": "hazen", "address": "https://atomone-mainnet-api.hazennetworksolutions.com/"}
 
     ],
     "rpc": [
 
-        {"provider": "Indonode", "address": "https://rpc.atomone.indonode.net"}
+        {"provider": "Indonode", "address": "https://rpc.atomone.indonode.net"},
+        {"provider": "hazen", "address": "https://atomone-mainnet-rpc.hazennetworksolutions.com/"}
+        
     ],
     "sdk_version": "0.47.13",
     "coin_type": "118",
