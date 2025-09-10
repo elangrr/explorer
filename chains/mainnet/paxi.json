@@ -1,0 +1,27 @@
+{
+    "chain_name": "paxi",
+    "registry_name": "paxi",
+    "api": [
+        {"provider": "Indonode", "address": "https://api.paxi.indonode.net"},
+         {"provider": "Paxi", "address": "https://mainnet-api.paxinet.io"}
+
+    ],
+    "rpc": [
+
+        {"provider": "Indonode", "address": "https://rpc.paxi.indonode.net"},
+        {"provider": "Paxi", "address": "https://mainnet-rpc.paxinet.io"}
+        
+    ],
+    "sdk_version": "0.50.1",
+    "coin_type": "118",
+    "min_tx_fee": "1000",
+    "addr_prefix": "paxi",
+    "logo": "/logos/paxi.jpg",
+    "assets": [{
+        "base": "upaxi",
+        "symbol": "PAXI",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/paxi.jpg"
+    }]
+}
