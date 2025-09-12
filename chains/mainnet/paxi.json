@@ -2,14 +2,12 @@
     "chain_name": "paxi",
     "registry_name": "paxi",
     "api": [
-        {"provider": "Indonode", "address": "https://api.paxi.indonode.net"},
-         {"provider": "Paxi", "address": "https://mainnet-api.paxinet.io"}
+        {"provider": "Indonode", "address": "https://api.paxi.indonode.net"}
 
     ],
     "rpc": [
 
-        {"provider": "Indonode", "address": "https://rpc.paxi.indonode.net"},
-        {"provider": "Paxi", "address": "https://mainnet-rpc.paxinet.io"}
+        {"provider": "Indonode", "address": "https://rpc.paxi.indonode.net"}
         
     ],
     "sdk_version": "0.50.1",
