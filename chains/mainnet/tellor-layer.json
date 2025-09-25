@@ -1,0 +1,29 @@
+{
+    "chain_name": "tellor-layer",
+    "registry_name": "tellor-layer",
+    "api": [
+        {"provider": "Tellor", "address": "https://mainnet.tellorlayer.com"},
+        {"provider": "Indonode", "address": "https://api.paxi.indonode.net"},
+        {"provider": "Nodestake", "address": "https://api.tellor.nodestake.org"}
+
+    ],
+    "rpc": [
+
+        {"provider": "Tellor", "address": "https://mainnet.tellorlayer.com/rpc"},
+        {"provider": "Indonode", "address": "https://api.paxi.indonode.net"},
+        {"provider": "Nodestake", "address": "https://rpc.tellor.nodestake.org"}
+        
+    ],
+    "sdk_version": "0.50.9",
+    "coin_type": "118",
+    "min_tx_fee": "10",
+    "addr_prefix": "layer",
+    "logo": "/logos/tellor.png",
+    "assets": [{
+        "base": "loya",
+        "symbol": "LOYA",
+        "exponent": "6",
+        "coingecko_id": "tellor",
+        "logo": "/logos/tellor.png"
+    }]
+}
