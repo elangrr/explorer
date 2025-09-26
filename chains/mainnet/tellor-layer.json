@@ -10,7 +10,7 @@
     "rpc": [
 
         {"provider": "Tellor", "address": "https://mainnet.tellorlayer.com/rpc"},
-        {"provider": "Indonode", "address": "https://api.layer.indonode.net"},
+        {"provider": "Indonode", "address": "https://rpc.layer.indonode.net"},
         {"provider": "Nodestake", "address": "https://rpc.tellor.nodestake.org"}
         
     ],
