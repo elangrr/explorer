@@ -1,0 +1,25 @@
+{
+    "chain_name": "tellor-layer-testnet",
+    "registry_name": "tellor-layer-testnet",
+    "api": [
+        {"provider": "Tellor", "address": "https://node-palmito.tellorlayer.com"}
+
+    ],
+    "rpc": [
+
+        {"provider": "Tellor", "address": "https://node-palmito.tellorlayer.com/rpc"}
+        
+    ],
+    "sdk_version": "0.50.9",
+    "coin_type": "118",
+    "min_tx_fee": "10",
+    "addr_prefix": "layer",
+    "logo": "/logos/tellor.png",
+    "assets": [{
+        "base": "loya",
+        "symbol": "LOYA",
+        "exponent": "6",
+        "coingecko_id": "tellor",
+        "logo": "/logos/tellor.png"
+    }]
+}
