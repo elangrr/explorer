@@ -1,0 +1,27 @@
+{
+    "chain_name": "safrochain-testnet",
+    "registry_name": "safrochain-testnet",
+    "api": [
+        {"provider": "Safrochain", "address": "https://rest.testnet.safrochain.com"},
+        {"provider": "Indonode", "address": "https://api.safrochain-t.indonode.net"}
+
+    ],
+    "rpc": [
+
+        {"provider": "Safrochain", "address": "https://rpc.testnet.safrochain.com"},
+        {"provider": "Indonode", "address": "https://rpc.safrochain-t.indonode.net"}
+        
+    ],
+    "sdk_version": "0.50.13",
+    "coin_type": "118",
+    "min_tx_fee": "10",
+    "addr_prefix": "addr_safro",
+    "logo": "/logos/safrochain.jpg",
+    "assets": [{
+        "base": "usaf",
+        "symbol": "SAF",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/safrochain.jpg"
+    }]
+}
